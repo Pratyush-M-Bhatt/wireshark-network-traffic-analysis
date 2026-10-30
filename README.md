@@ -77,7 +77,7 @@ This demonstrates why sensitive information should be protected using HTTPS.
 
 ## Privacy
 
-The original packet capture is kept private because it may contain unrelated traffic. Only reviewed screenshots will be published, with network addresses redacted where appropriate.
+Packet captures and screenshots are kept private to avoid sharing network details. This repository documents the commands, method and findings from my lab.
 
 ## Scope
 
